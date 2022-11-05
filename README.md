@@ -4,6 +4,6 @@ A simple app that generates proposed names for a startup company. The user can s
 
 The animated GIF below shows how the app works: 
 
-![]([http://i.imgur.com/OUkLi.gif](https://github.com/JamalAbdulrazik/startub-name-generator/blob/master/gif.gif])
+![]([https://github.com/JamalAbdulrazik/startub-name-generator/blob/d312ae12ba23bd36922f842d8bb67ba197b11e96/gif.gif])
 
 
